@@ -1,5 +1,4 @@
-django==1.11.28
-Django==1.11.24
+Django==1.11.28
 gunicorn==20.0.4
 pytz==2019.2
 selenium==3.141.0
